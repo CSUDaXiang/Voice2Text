@@ -315,6 +315,6 @@ with gr.Blocks() as iface:
     input_record.stop_recording(stop_recording,outputs=play_audio)
     
 
-
+print("launch")
 iface.launch()
 print("test")
