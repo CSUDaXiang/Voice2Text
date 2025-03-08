@@ -317,3 +317,4 @@ with gr.Blocks() as iface:
 
 
 iface.launch()
+print("test")
