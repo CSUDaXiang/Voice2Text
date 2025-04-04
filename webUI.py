@@ -317,8 +317,4 @@ with gr.Blocks() as iface:
 
 
 iface.launch()
-<<<<<<< HEAD
-print("test111")
-=======
 print("test2222")
->>>>>>> 4bd2680 (change webuid.py22)
